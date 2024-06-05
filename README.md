@@ -41,10 +41,6 @@ The analysis consists of five key insights, each visualized with appropriate gra
 
 A comprehensive dashboard consolidates the above insights into a single view, allowing for an easy and quick overview of the key metrics and trends. This dashboard serves as a powerful tool for decision-makers to assess and strategize based on the sales data.
 
+#Project Insight:
 
-
-Feel free to explore the repository and utilize the insights for better sales strategies and data-driven decision-making.
-
----
-
-*Note: Replace `yourusername` and `your.email@example.com` with your actual GitHub username and contact email.*
+![Project](https://github.com/Tanvir4247/Data-Analyst-Project---Excel/blob/main/Dashboard%20Snap.png)
